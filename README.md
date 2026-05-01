@@ -1,11 +1,6 @@
 # 👨‍💻 Aldahir Ramos Pérez | **`Data Science & Web Developer`**
 
 I'm a data scientist and web developer who turns data into decisions and crafts digital experiences. Passionate about automation, retrieval-augmented generation (RAG), and building solutions that bridge intelligent analysis with functional applications. I currently collaborate on open-source projects and share my learning journey on [my GitHub][github] and [LinkedIn][linkedin].
-
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30"/>][linkedin]
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter/X" height="30" width="30"/>][x]
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="30"/>][github]
-
 ---
 
 ### 🛠️ Languages and Tools
